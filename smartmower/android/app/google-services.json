@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18696308124",
+    "project_id": "smartmowerapp",
+    "storage_bucket": "smartmowerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18696308124:android:ca720e68db6de779cdb459",
+        "android_client_info": {
+          "package_name": "com.smart.mower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6n89rCJ0zKkRi2Ns-e63YgNxhFZYT-wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
